@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SwitchCheck" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.SwitchCheck" parent="Base.Theme.SwitchCheck" />
+
+    <!-- Base application theme. -->
+<!--    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+<!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+<!--        <item name="colorPrimary">@color/colorPrimary</item>-->
+<!--        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+<!--        <item name="colorAccent">@color/colorAccent</item>-->
+<!--    </style>-->
+
+<!--    <style name="SwitchCompatTheme" >-->
+<!--        <item name="colorControlActivated">#f00</item>-->
+<!--    </style>-->
+<!--    <style name="SwitchCompatStyle" >-->
+<!--        <item name="android:thumb">@drawable/switch_thumb</item>-->
+<!--        <item name="trackTint">@color/material_dynamic_primary60</item>-->
+<!--    </style>-->
+</resources>
